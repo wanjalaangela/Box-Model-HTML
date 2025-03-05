@@ -3,6 +3,7 @@
     padding: 20px;
     margin: 5%;
     border: solid 1px violet;
+    font-style: italic;
 }
 .container{
 border: dotted 1px purple;
